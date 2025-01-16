@@ -56,9 +56,9 @@ o	Máquinas de Vectores de Soporte (SVM): Se implementó como modelo de clasific
 
 ## Herramientas
 
-•	Python: Lenguaje de programación principal para el desarrollo del proyecto.
-•	Pandas: Para manipulación y análisis de datos.
-•	NumPy: Para operaciones numéricas.
-•	Scikit-learn: Para la implementación de modelos de machine learning (regresión lineal, regresión logística y SVM), así como métricas de evaluación.
-•	Matplotlib y Seaborn: Para visualización de datos.
+-	Python: Lenguaje de programación principal para el desarrollo del proyecto.
+- Pandas: Para manipulación y análisis de datos.
+- NumPy: Para operaciones numéricas.
+- Scikit-learn: Para la implementación de modelos de machine learning (regresión lineal, regresión logística y SVM), así como métricas de evaluación.
+- Matplotlib y Seaborn: Para visualización de datos.
 
