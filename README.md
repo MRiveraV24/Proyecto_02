@@ -88,10 +88,7 @@ El segundo conjunto incluye además la columna "Contratado".
 1. **Modelo de Regresión Lineal**:
    - **R2**: 0.70 (70% de la variabilidad del salario explicada).
    - **RMSE**: 6494.37 MXN (desviación promedio de las predicciones).
-   - **Ecuación del modelo**:
-     ```
-     Salario = 16352.361 + 2956.319 * Experiencia + 1717.267 * Hijos + ...
-     ```
+
 
 2. **Modelo de Regresión Logística**:
    - **Precisión**: 70%.
